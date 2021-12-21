@@ -1,16 +1,18 @@
-### Hi there 👋
+### Oi 👋
 
-<!--
-**gerep/gerep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I write software, and I try my best to it right ⚡
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have interest in:
+- philosophy
+- decision making
+- ego
+- the purpose of family, life and work
+- children education
+- some books
+
+I am writing anything interesting that comes to mind on [my blog](https://gerep.github.io/).
+
+Not a fan of the "how-to" wave we are currently in, how to get rich, how to get smart, how to get fit, etc.
+
+I love everything slow.
