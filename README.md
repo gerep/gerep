@@ -1,6 +1,6 @@
 ### Oi 👋
 
-I write software, and I try my best to it right ⚡
+I write software, and I try my best to do it right ⚡
 
 
 I have interest in:
