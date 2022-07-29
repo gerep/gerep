@@ -1,6 +1,6 @@
 ### Oi 👋
 
-I am writing software since 2012 and I think I am starting to understand it ⚡
+I write software since 2012, and I think I am starting to understand it ⚡
 
 Writing anything interesting that comes to mind on [my blog](https://gerep.github.io/).
 
